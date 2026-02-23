@@ -2,73 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
    <url>
-      <loc>https://www.index.html</loc>
+      <loc>https://ronaldocmatamoros-cloud.github.io/aviacion-web/index.html</loc>
       <lastmod>2026-02-23</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
    </url>
 
    <url>
-      <loc>https://www./historia.html</loc>
+      <loc>https://ronaldocmatamoros-cloud.github.io/aviacion-web/historia.html</loc>
       <lastmod>2026-02-23</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
 
    <url>
-      <loc>https://www./tipos.html</loc>
+      <loc>https://ronaldocmatamoros-cloud.github.io/aviacion-web/tipos.html</loc>
       <lastmod>2026-02-23</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
 
    <url>
-      <loc>https://www./comercial.html</loc>
+      <loc>https://ronaldocmatamoros-cloud.github.io/aviacion-web/comercial.html</loc>
       <lastmod>2026-02-23</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
    </url>
 
    <url>
-      <loc>https://www./militar.html</loc>
+      <loc>https://ronaldocmatamoros-cloud.github.io/aviacion-web/militar.html</loc>
       <lastmod>2026-02-23</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
    </url>
 
    <url>
-      <loc>https://www./privada.html</loc>
+      <loc>https://ronaldocmatamoros-cloud.github.io/aviacion-web/privada.html</loc>
       <lastmod>2026-02-23</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
    </url>
 
    <url>
-      <loc>https://www./helicopteros.html</loc>
+      <loc>https://ronaldocmatamoros-cloud.github.io/aviacion-web/helicopteros.html</loc>
       <lastmod>2026-02-23</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
    </url>
 
    <url>
-      <loc>https://www./drones.html</loc>
+      <loc>https://ronaldocmatamoros-cloud.github.io/aviacion-web/drones.html</loc>
       <lastmod>2026-02-23</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
    </url>
 
    <url>
-      <loc>https://www./tecnologia.html</loc>
+      <loc>https://ronaldocmatamoros-cloud.github.io/aviacion-web/tecnologia.html</loc>
       <lastmod>2026-02-23</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
 
    <url>
-      <loc>https://www./contacto.html</loc>
+      <loc>https://ronaldocmatamoros-cloud.github.io/aviacion-web/contacto.html</loc>
       <lastmod>2026-02-23</lastmod>
       <changefreq>yearly</changefreq>
       <priority>0.5</priority>
    </url>
+
 
 </urlset>
